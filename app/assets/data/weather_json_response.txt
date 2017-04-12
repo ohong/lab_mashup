@@ -1,0 +1,4 @@
+http://api.openweathermap.org/data/2.5/weather?q=Durham,NC&units=imperial&appid=45713cc0d54c4bfa1c7efbbdbd1c6c2b
+
+
+{"coord":{"lon":-78.9,"lat":35.99},"weather":[{"id":804,"main":"Clouds","description":"overcast clouds","icon":"04d"}],"base":"stations","main":{"temp":79.05,"pressure":1023,"humidity":36,"temp_min":77,"temp_max":80.6},"visibility":16093,"wind":{"speed":5.82,"deg":180},"clouds":{"all":90},"dt":1492023900,"sys":{"type":1,"id":1812,"message":1.0202,"country":"US","sunrise":1491993906,"sunset":1492040856},"id":4464368,"name":"Durham","cod":200}
